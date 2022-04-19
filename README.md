@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Frederico Ferreira Tatagiba
+- 👀 I’m interested in mangas, anime and games.
+- 🌱 I’m currently learning C# and Unity by myself
+- 💞️ I’m looking to collaborate on game developments
+- 📫 You can reach me by my e-mail address: fredericotatagiba@gmail.com or by my cellphone number +55 27 996397680
